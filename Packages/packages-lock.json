@@ -206,6 +206,15 @@
       },
       "hash": "9514fd63fd1a83e29a2cd435a6a0e1b8e19a0c62"
     },
+    "io.getready.rgn.dynamiclinks": {
+      "version": "https://github.com/readyio/RGNDynamicLinks.git#0.10.0-dev.526",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "io.getready.rgn.core": "0.10.0"
+      },
+      "hash": "bdb4ca0d49b5b023fdc935a3657961346833bb89"
+    },
     "io.getready.rgn.gamepass": {
       "version": "https://github.com/readyio/RGNGamePass.git#0.10.0-dev.526",
       "depth": 0,

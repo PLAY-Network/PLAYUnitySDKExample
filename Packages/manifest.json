@@ -21,6 +21,7 @@
     "io.getready.rgn.analytics": "https://github.com/readyio/RGNAnalytics.git#0.10.0-dev.526",
     "io.getready.rgn.core": "https://github.com/readyio/RGNCore.git#0.10.0-dev.526",
     "io.getready.rgn.currency": "https://github.com/readyio/RGNCurrency.git#0.10.0-dev.526",
+    "io.getready.rgn.dynamiclinks": "https://github.com/readyio/RGNDynamicLinks.git#0.10.0-dev.526",
     "io.getready.rgn.gameprogress": "https://github.com/readyio/RGNGameProgress.git#0.10.0-dev.526",
     "io.getready.rgn.gamepass": "https://github.com/readyio/RGNGamePass.git#0.10.0-dev.526",
     "io.getready.rgn.impl.firebase": "https://github.com/readyio/RGNImplFirebase.git#0.10.0-dev.526",
